@@ -1,0 +1,5 @@
+package com.bolsaideas.springboot.app.controllers;
+
+public class IndexController {
+
+}
