@@ -18,16 +18,16 @@ public class IndexController {
 	@Value("${texto.indexcontroller.index.titulo}")
 	private String textoIndex;
 	
-	@Value("${texto.indexcontroller.perfil.titulo}")
+	@Value("${texto.indexcontroller.index.titulo}")
 	private String textoPerfil;	
 	
-	@Value("${texto.indexcontroller.listar.titulo}")
+	@Value("${texto.indexcontroller.index.titulo}")
 	private String textoListar;
 	
 
 	@GetMapping({ "/index", "/", "/home" })
 	public String index(Model model) {
-		model.addAttribute("titulo", textoIndex);
+		model.addAttribute("titulo", "hola spring framework");
 		return "index";
 	}
 
@@ -38,7 +38,7 @@ public class IndexController {
 		usuario.setApellido("Garay");
 		// usuario.setEmail("jvrgaray@gmail.com");
 		model.addAttribute("usuario", usuario);
-		model.addAttribute("titulo", textoPerfil.concat(usuario.getNombre()));
+		model.addAttribute("titulo", "Perfil del usuario: ".concat(usuario.getNombre()));
 
 		return "perfil";
 	}
@@ -56,7 +56,7 @@ public class IndexController {
 		 * "spineda08@gmail.com"));
 		 */
 
-		model.addAttribute("titulo", textoListar);
+		model.addAttribute("titulo", "Listado de usuarios");
 		// model.addAttribute("usuarios", usuarios);
 
 		return "listar";
