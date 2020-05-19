@@ -41,24 +41,20 @@ public class IndexController {
 		 * Usuario("Javier", "Garay", "jvrgaray@gmail.com")); usuarios.add(new
 		 * Usuario("Sandra", "Pineda", "spineda08@gmail.com"));
 		 */
-		/*
-		 * List<Usuario> usuarios = Arrays.asList(new Usuario("Javier", "Garay",
-		 * "jvrgaray@gmail.com"), new Usuario("Sandra", "Pineda",
-		 * "spineda08@gmail.com"));
-		 */
+		/*List<Usuario> usuarios = Arrays.asList(new Usuario("Javier", "Garay", "jvrgaray@gmail.com"),
+				new Usuario("Sandra", "Pineda", "spineda08@gmail.com"));*/
 
 		model.addAttribute("titulo", "Listado de usuarios");
-		// model.addAttribute("usuarios", usuarios);
+		model.addAttribute("usuarios", usuarios);
 
 		return "listar";
 	}
-
+	
 	@ModelAttribute("usuarios")
-	public List<Usuario> poblarUsuarios() {
+	public List<Usuario> poblarUsuarios(){
 		List<Usuario> usuarios = Arrays.asList(new Usuario("Javier", "Garay", "jvrgaray@gmail.com"),
-				new Usuario("Sandra", "Pineda", "spineda08@gmail.com"),
-				new Usuario("Constanza", "Garay", "coty@gmail.com"), new Usuario("Natalia", "Garay", "naty@gmail.com"));
-
+				new Usuario("Sandra", "Pineda", "spineda08@gmail.com"));	
+		
 		return usuarios;
 	}
 }
