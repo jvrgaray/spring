@@ -1,0 +1,21 @@
+package com.bolsaideas.springboot.app.models;
+
+public class Usuario {
+	private String nombre;
+	private String apeliido;
+	
+	public String getNombre() {
+		return nombre;
+	}
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	public String getApeliido() {
+		return apeliido;
+	}
+	public void setApeliido(String apeliido) {
+		this.apeliido = apeliido;
+	}
+	
+	
+}
