@@ -2937,3 +2937,18 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.xmlunit:x
 2020-05-19 16:06:56,991 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
 2020-05-19 16:06:56,993 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-19 16:06:56,993 [Worker-165: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-web/src/test/resources
+2020-05-19 16:18:27,674 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-19 16:18:27,676 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-19 16:18:27,677 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-05-19 16:18:27,678 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-19 16:18:27,678 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-web/src/test/resources
+2020-05-19 16:19:25,781 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-19 16:19:25,782 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-19 16:19:25,783 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-05-19 16:19:25,784 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-19 16:19:25,784 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-web/src/test/resources
+2020-05-19 16:21:40,884 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-19 16:21:40,885 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-19 16:21:40,886 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2020-05-19 16:21:40,887 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-19 16:21:40,887 [Worker-170: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-web/src/test/resources
