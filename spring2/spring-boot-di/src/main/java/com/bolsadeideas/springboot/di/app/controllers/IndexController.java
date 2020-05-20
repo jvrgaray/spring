@@ -11,7 +11,7 @@ import com.bolsadeideas.springboot.di.app.models.service.IServicio;
 @Controller
 public class IndexController {
 	@Autowired
-	@Qualifier("miServicioComplejo")
+	@Qualifier("miServicioSimple")
 	private IServicio servicio;
 
 	@GetMapping({"/", "", "/index"})
