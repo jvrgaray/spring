@@ -2,6 +2,8 @@ package com.bolsadeideas.springboot.di.app.models.domain;
 
 import java.util.List;
 
+import javax.annotation.PostConstruct;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
@@ -17,6 +19,11 @@ public class Factura {
 	@Autowired
 	private List<ItemFactura> items;
 
+	@PostConstruct
+	public void inicializar() {
+		cliente.setNombre(cliente.getNombre().concat(" ").concat("Luis"));
+	}
+	
 	public String getDescripcion() {
 		return descripcion;
 	}
