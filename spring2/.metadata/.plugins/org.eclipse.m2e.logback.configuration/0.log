@@ -3602,3 +3602,56 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.xmlunit:x
 2020-05-25 17:54:43,116 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
 2020-05-25 17:54:43,118 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-25 17:54:43,118 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-di/src/test/resources
+2020-05-25 17:59:51,555 [Worker-90: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot-form:0.0.1-SNAPSHOT @ /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/pom.xml.
+2020-05-25 17:59:51,985 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-form/src/main/java
+2020-05-25 17:59:51,986 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-form/src/main/resources
+2020-05-25 17:59:51,992 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-form/src/main/resources
+2020-05-25 17:59:52,002 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-form/src/test/java
+2020-05-25 17:59:52,201 [Worker-90: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-05-25 17:59:52,205 [Worker-90: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-25 17:59:52,631 [Worker-90: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring-boot-form:0.0.1-SNAPSHOT @ /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/pom.xml.
+2020-05-25 17:59:52,913 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-form/src/main/java
+2020-05-25 17:59:52,913 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-form/src/main/resources
+2020-05-25 17:59:52,915 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-boot-form/src/main/resources
+2020-05-25 17:59:52,919 [Worker-90: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-boot-form/src/test/java
+2020-05-25 17:59:53,061 [Worker-90: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-05-25 17:59:53,510 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 17:59:53,510 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 17:59:53,511 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 17:59:53,512 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 17:59:53,512 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:00:26,522 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:00:26,523 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:00:26,523 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 18:00:26,526 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:00:26,526 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:00:37,684 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:00:37,685 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:00:37,685 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 18:00:37,687 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:00:37,687 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:00:45,793 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:00:45,794 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:00:45,795 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 18:00:45,796 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:00:45,796 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:01:40,455 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:01:40,456 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:01:40,457 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 18:01:40,459 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:01:40,459 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:01:57,200 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:01:57,201 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 18:01:57,201 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:01:57,203 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:01:57,203 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:02:49,441 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:02:49,441 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:02:49,442 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:02:49,443 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:02:49,443 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources
+2020-05-25 18:02:57,153 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:02:57,153 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-25 18:02:57,153 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-25 18:02:57,155 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-25 18:02:57,155 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/2b-0088/Cursos/Spring/spring2/spring-boot-form/src/test/resources

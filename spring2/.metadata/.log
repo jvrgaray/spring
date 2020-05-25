@@ -22063,3 +22063,98 @@ java.lang.NullPointerException
 !MESSAGE Unhandled event loop exception
 !STACK 0
 java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:57:56.358
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:57:56.359
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:57:56.359
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:57:56.359
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:58:26.887
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:58:26.888
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:58:26.888
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 17:58:26.888
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:51.967
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:51.968
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:51.968
+!MESSAGE buffering callback sts4.classpath.npXDOdsC spring-boot-form false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:51.969
+!MESSAGE executing callback sts4.classpath.npXDOdsC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:51.973
+!MESSAGE executing callback sts4.classpath.npXDOdsC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.100
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.102
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.103
+!MESSAGE buffering callback sts4.classpath.npXDOdsC spring-boot-form false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.103
+!MESSAGE executing callback sts4.classpath.npXDOdsC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.107
+!MESSAGE executing callback sts4.classpath.npXDOdsC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.906
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.907
+!MESSAGE classpath=89 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.908
+!MESSAGE buffering callback sts4.classpath.npXDOdsC spring-boot-form false 89
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.909
+!MESSAGE executing callback sts4.classpath.npXDOdsC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-05-25 17:59:52.911
+!MESSAGE executing callback sts4.classpath.npXDOdsC SUCCESS [done]
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 18:00:30.685
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-05-25 18:00:30.701
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
