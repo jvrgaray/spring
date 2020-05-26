@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+/Users/2b-0088/Cursos/Spring/spring2/.metadata/.plugins/org.eclipse.jdt.core
-1309514233.index
-121961213.index
-2382012238.index

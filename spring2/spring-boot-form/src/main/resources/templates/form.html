@@ -2,9 +2,10 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title th:text="${titulo}"></title>
 </head>
 <body>
+	<h3 th:text="${titulo}"></h3>
 	<form th:action="@{/form}" method="post">
 		<div>
 			<label for="username">Username</label>
@@ -12,23 +13,23 @@
 		<div>
 			<input type="text" name="username" id="username" />
 		</div>
-		
+
 		<div>
 			<label for="password">Password</label>
 		</div>
 		<div>
 			<input type="password" name="password" id="password" />
 		</div>
-		
+
 		<div>
 			<label for="email">Email</label>
 		</div>
 		<div>
 			<input type="email" name="email" id="email" />
 		</div>
-		
+
 		<div>
-			<input type="submit" value="Send"/>
+			<input type="submit" value="Send" />
 		</div>
 	</form>
 </body>
